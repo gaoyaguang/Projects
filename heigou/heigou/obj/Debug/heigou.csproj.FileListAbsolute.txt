@@ -1,0 +1,12 @@
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\heigou.exe.config
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\heigou.exe
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\heigou.pdb
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.Properties.Resources.resources
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.csproj.GenerateResource.Cache
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.exe
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.pdb
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.csprojResolveAssemblyReference.cache
+F:\visualstudio2015\Projects\heigou\heigou\obj\Debug\heigou.Heigo.resources
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\Newtonsoft.Json.dll
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\Newtonsoft.Json.pdb
+F:\visualstudio2015\Projects\heigou\heigou\bin\Debug\Newtonsoft.Json.xml

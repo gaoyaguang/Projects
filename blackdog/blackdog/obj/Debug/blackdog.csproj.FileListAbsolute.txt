@@ -1,0 +1,17 @@
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\blackdog.exe.config
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\blackdog.exe
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\blackdog.pdb
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\IronPython.dll
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Scripting.dll
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Dynamic.dll
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\IronPython.xml
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Scripting.xml
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Dynamic.xml
+F:\VisualStudio2015\Projects\blackdog\blackdog\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.csprojResolveAssemblyReference.cache
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.Main.resources
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.Properties.Resources.resources
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.csproj.GenerateResource.Cache
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.exe
+F:\VisualStudio2015\Projects\blackdog\blackdog\obj\Debug\blackdog.pdb
